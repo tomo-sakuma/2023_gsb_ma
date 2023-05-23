@@ -1,0 +1,37 @@
+project:
+  title: "2023_特殊研究"
+
+author: 
+  - name: "佐久間 智広"
+    affiliation: "神戸大学大学院経営学研究科"
+    email: "sakuma@port.kobe-u.ac.jp"
+date: today
+date-format: YYYY/MM/DD
+
+subtitle: "2023年度　管理会計特殊研究"
+format:
+  revealjs:
+    width: 1280
+    height: 1024
+    slide-number: true
+    preview-links: auto
+    logo: kobe.png
+    css: styles.css
+    footer: "2023管理会計特殊研究"
+    smaller: false
+    scrollable: true
+    theme: [solarized,format_slide.scss]
+    fig-cap-location: top
+    tbl-cap-location: top
+    embed-resources: false
+    chalkboard: true
+    number-sections: true
+    number-depth: 2
+    toc: true
+    toc-depth: 1
+    navigation-mode: vertical
+    pdf-separate-fragments: true
+
+editor: visual
+bibliography: references.bib
+csl: the-accounting-review.csl

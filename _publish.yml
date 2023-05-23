@@ -1,0 +1,6 @@
+- source: 5_目標.qmd
+  quarto-pub:
+    - id: 575238c1-a658-4bbf-85e8-3e42a2634cef
+      url: 'https://quartopub.com/sites/tomo-sakuma/目標設定'
+    - id: d82786f6-c9aa-4750-9820-82063fd92b63
+      url: 'https://quartopub.com/sites/tomo-sakuma/5_target_setting'

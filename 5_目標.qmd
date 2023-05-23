@@ -1,0 +1,146 @@
+---
+title: "目標設定"
+---
+
+## 目標設定
+
+-   業績評価システムの中で重要な論点の一つは目標設定
+-   多くの企業は，予算目標のような特定の水準を業績評価上の目標とする (Merchant and Manzoni 1989; Merchant et al. 2018)
+-   例えば，予算目標を達成したらボーナスが出る，など
+    -   完全なpiece rate契約は稀
+
+::: columns
+::: {.column width="50%"}
+![](images/Untitled1.png)
+:::
+
+::: {.column width="50%"}
+![](images/Untitled2.png)
+:::
+:::
+
+## 目標を設定する意味
+
+#### モチベーションを高める （目標設定理論）
+
+-   具体的な目標があるとより努力を引き出せる [@locke2002]
+
+-   目標は高ければ高いほど高い努力を引き出せる [@locke2002]
+
+-   ただし，高すぎる目標は（諦めてしまうので）だめ [@locke2002; @merchant1989]\
+    \
+
+#### ボーナスと結びつけることで，さらにモチベーションが高まる （エージェンシー理論；期待理論）
+
+-   ボーナスの期待値が努力コストを上回るのであれば，努力する [@milgrom1997]
+
+-   モチベーションは，報酬の魅力 × 報酬の獲得可能性
+
+-   高すぎる目標の場合，ボーナスの期待値が下がる。努力コストを下回ったら諦めて努力しなくなる。
+
+## 目標設定の際の課題
+
+::: columns
+::: {.column width="20%"}
+#### 指標の選択
+
+-   財務指標？その中の何？
+
+-   非財務指標？
+
+-   幾つの指標を目標にする？
+:::
+
+::: {.column width="20%"}
+#### 難易度
+
+-   諦めない程度に，でもなるべく高く
+
+    -   それはどれぐらい？
+:::
+
+::: {.column width="20%"}
+#### 目標設定の方法
+
+-   トップダウン v.s. ボトムアップ
+
+-   トップダウンでは，適切な難易度の目標を立てにくい
+
+-   ボトムアップでは，部下が自分の有利な目標となるよう頑張る
+:::
+
+::: {.column width="20%"}
+#### 使う情報
+
+-   自部門の過去の情報？
+
+-   他部門・競合他社の情報？
+:::
+
+::: {.column width="20%"}
+#### 目標の変更
+
+-   期中に目標を調整するべき？
+:::
+:::
+
+![](images/undraw_target_re_fi8j.svg){fig-align="right"}
+
+## 今日の論文1： @matejka2018
+
+::: columns
+::: column
+-   目標設定に関するレビュー論文
+
+-   Michal Matějka (Arizona State Univ) は，目標設定に関する第一人者
+:::
+
+::: column
+::: {layout="[1,1]"}
+
+![](images/arizona-state-university-logo-vertical.png)
+
+![](images/mmatejka.png)
+:::
+:::
+:::
+
+::: {style="font-size: 0.78em;"}
+"*The Ratchet Effect: Theory and Empirical Evidence*," with Matthias D. Mahlendorf and Utz Schäffer. Forthcoming in Management Science.
+
+"*Economic Determinants and Consequences of Performance Target Difficulty*," with Sunyoung Kim and Jongwon Park. Forthcoming in The Accounting Review.
+
+"*Performance Targets and Ex Post Incentive Plan Adjustments*," with Jeong- Hoon Hyun, Peter SH Oh, and Tae Sik Ahn. Contemporary Accounting Research 39(2): 863--892.
+
+"*Relative Target Setting and Cooperation*," with Martin Holzhacker, Stephan Kramer, and Nick Hoffmeister. Journal of Accounting Research 57(1).
+
+"*Relative Performance Evaluation and the Ratchet Effect*," with Pablo Casas-Arce, Martin Holzhacker, and Matthias Mahlendorf. Contemporary Accounting Research 35(4).
+
+"*Balancing Difficulty of Performance Targets: Theory and Evidence*" with Korok Ray. Review of Accounting Studies 22(4).
+
+"*Target Ratcheting and Incentives: Theory, Evidence, and New Opportunities*," with Raffi Indjejikian and Jason D. Schloetzer. The Accounting Review 89(4).
+
+<div>
+
+"*Earnings Targets and Annual Bonus Incentives*," with Raffi J. Indjejikian, Kenneth A. Merchant and W. Van der Stede. The Accounting Review 89(4).
+
+</div>
+:::
+
+## 今日の論文2： @bouwens2011
+
+-   ラチェット効果の論文
+
+-   努力の測定が難しいので，ラチェット効果の実証は難しかった。
+
+-   アーカイバルデータを使って従業員の行動とその背後の意図を綺麗に検証。
+
+::: {layout="[1,1]"}
+![](images/Screenshot%202023-05-15%20at%2021.44.56.png)
+
+![](images/Screenshot%202023-05-15%20at%2021.46.55.png)
+:::
+
+![](images/Screenshot%202023-05-15%20at%2021.44.22.png){fig-align="center"}
+
+## 参考文献
