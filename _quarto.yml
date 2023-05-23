@@ -1,5 +1,7 @@
 project:
   title: "2023_特殊研究"
+  output-dir: docs
+
 
 author: 
   - name: "佐久間 智広"

@@ -97,7 +97,6 @@ title: "目標設定"
 
 ::: column
 ::: {layout="[1,1]"}
-
 ![](images/arizona-state-university-logo-vertical.png)
 
 ![](images/mmatejka.png)
