@@ -1,6 +1,11 @@
 ---
 title: "8主観(2)"
 bibliography: references.bib
+
+author: 
+  - name: "佐久間 智広"
+    affiliation: "神戸大学大学院経営学研究科"
+    email: "sakuma@port.kobe-u.ac.jp"
 ---
 
 ## 主観的評価 {data-name="主観的評価"}

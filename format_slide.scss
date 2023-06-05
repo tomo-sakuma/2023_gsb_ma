@@ -40,6 +40,13 @@ $code-block-font-size: 0.8em;
   color: #FFFFFF;
 }
 
+#title-slide .subtitle, div.reveal div.slides section.quarto-title-block .subtitle {
+  font-size: 1.2em;
+}
+
+.reveal .quarto-title-block .quarto-title-authors {
+  font-size: 1em;
+}
 
 .quarto-title-author-email{
   font-family: $font-family-monospace;
