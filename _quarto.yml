@@ -13,8 +13,8 @@ date-format: YYYY/MM/DD
 subtitle: "2023年度　管理会計特殊研究"
 format:
   revealjs:
-    width: 1280
-    height: 1024
+    width: 1920 # 1280
+    height: 1080 #1024
     slide-number: true
     preview-links: auto
     logo: /images/kobe.png

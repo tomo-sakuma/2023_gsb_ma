@@ -1,5 +1,5 @@
 ---
-title: "6-7主観"
+title: "7主観"
 ---
 
 ## 客観的業績評価と主観的業績評価 {data-name="客観的業績評価と主観的業績評価"}
@@ -168,7 +168,7 @@ Uncertainty about Measurement Criteria
 -   実証研究 Ittner, Larcker and Meyer \[2003\] Gibbs et al. (2004)
 :::
 
-## 今日の論文1 @bol2008  {data-name="今日の論文"}
+## 今日の論文1 @bol2008 {data-name="今日の論文"}
 
 管理会計研究における主観性のレビュー論文
 

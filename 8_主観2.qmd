@@ -1,0 +1,96 @@
+---
+title: "8主観(2)"
+bibliography: references.bib
+---
+
+## 主観的評価 {data-name="主観的評価"}
+
+業績評価における主観性は以下のような特徴があるとされた[@bol2008]
+
+::: columns
+::: {.column width="50%"}
+::: boxbox
+**Benefit**
+
+------------------------------------------------------------------------
+
+1.  インセンティブの歪みを和らげる\
+    （Mitigation of Incentive Distortions）
+2.  リスクを減らす\
+    （Risk Reduction）
+3.  順応性のある行動を誘発する（Inducement of adaptive behavior）
+4.  業績操作の可能性を制限する（Limitation of Vulnerability to Manipulation）
+5.  不公正の認知を減らす\
+    （Reduction of Perceived Unfairness）
+:::
+:::
+
+::: {.column width="50%"}
+::: boxbox
+**Cost**
+
+------------------------------------------------------------------------
+
+1.  反故にされる\
+    (Reneging)
+
+2.  不正確な評定\
+    (Inaccurate Assessments)
+
+3.  影響活動\
+    (Influence Activities)
+
+4.  測定基準の不確実性\
+    (Uncertainty about Measurement Criteria)
+:::
+:::
+:::
+
+## 評価者にかかるバイアス {data-name="評価者にかかるバイアス"}
+
+前ページのメリット・デメリットの多くは経済学的な，戦略的行動の結果。
+
+一方，評価者の主観に頼ると，非戦略的な，評価者も意図していないような効果が生じる可能性があるとされる。
+
+例えば
+
+-   評価者の認知の限界から，限られた情報を使って評定を下してしまう
+    -   共通指標バイアス [@lipe2000; @banker2004; @humphreys2011]
+    -   アウトカム効果 [@tan1997; @ittner2003; @ghosh2000]
+    -   情報の表示方法の影響 [@lipe2002; @cardinaels2010]
+    -   因果関係の不正確な認知[@vera-muñoz2007; @kelly2010]
+-   無意識のうちに被評価者との人間関係を意識して，評価を歪めてしまう
+    -   中心化バイアス・寛大化バイアス[@moers2005]
+
+## 今日の論文1: @banker2004 {data-name="今日の論文1"}
+
+-   @lipe2000 で示された共通指標バイアスの軽減策を提示する論文
+
+::: {layout-ncol="2"}
+
+![](images/Rajiv-Banker-5.1.jpg)
+
+![この前神戸に来てた？](images/Screenshot%202023-06-05%20at%2011.17.10.png){width="520"}
+
+![](images/Screenshot%202023-06-05%20at%2011.19.04.png)
+:::
+
+------------------------------------------------------------------------
+
+共通指標バイアス（common measure bias）
+
+:   BSCのような複数の指標を組み合わせた業績管理システムを使って複数の部署を評価する際，両部署に共通の指標を過度に重視する傾向。これがあると，部署ごとに業務上重要なことを特定し，それを測る指標を整備しても結局意味がなくなる。
+
+::: {layout="[1,1]"}
+![](images/Untitled-03.png)
+
+![](images/Untitled-04.png)
+:::
+
+## 今日の論文2: @moers2005 {data-name="今日の論文2"}
+
+業績評価について，評価者の裁量と評価にかかるバイアス（寛大化や中心化）との関係を見ている
+
+![](images/Screenshot%202023-06-05%20at%2011.27.34.png)
+
+## 参考文献 
