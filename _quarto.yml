@@ -37,7 +37,7 @@ format:
         barhtml:
             header: "<div class='menubar'></a><ul class='menu'></ul><div class='slide-number'></div><div>"
         scale: 0.67
-        flat: false
+        flat: true
     title-slide-attributes:
         data-state: "hide-menubar"
     #template-partials:
