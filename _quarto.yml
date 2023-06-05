@@ -17,7 +17,7 @@ format:
     height: 1080 #1024
     slide-number: true
     preview-links: auto
-    logo: /images/kobe.png
+    logo: kobe.png
     css: /parts/styles.css
     footer: "2023管理会計特殊研究"
     smaller: false
