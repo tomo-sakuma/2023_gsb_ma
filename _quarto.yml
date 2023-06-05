@@ -13,16 +13,17 @@ date-format: YYYY/MM/DD
 subtitle: "2023年度　管理会計特殊研究"
 format:
   revealjs:
+    lang: jp
     width: 1920 # 1280
     height: 1080 #1024
     slide-number: true
     preview-links: auto
-    logo: kobe.png
-    css: /parts/styles.css
+    logo: images/kobe.png
+    css: parts/styles.css
     footer: "2023管理会計特殊研究"
     smaller: false
     scrollable: true
-    theme: [solarized,format_slide.scss]
+    theme: [simple,format_slide.scss]
     fig-cap-location: top
     tbl-cap-location: top
     embed-resources: false
@@ -33,9 +34,10 @@ format:
     toc-depth: 1
     navigation-mode: vertical
     pdf-separate-fragments: true
+    highlight-style: 'github'
     simplemenu:
         barhtml:
-            header: "<div class='menubar'></a><ul class='menu'></ul><div class='slide-number'></div><div>"
+            header: "<div class='menubar'><ul class='menu'></ul><div class='slide-number'></div><div>"
         scale: 0.67
         flat: true
     title-slide-attributes:
