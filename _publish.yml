@@ -4,3 +4,9 @@
       url: 'https://quartopub.com/sites/tomo-sakuma/目標設定'
     - id: d82786f6-c9aa-4750-9820-82063fd92b63
       url: 'https://quartopub.com/sites/tomo-sakuma/5_target_setting'
+- source: 6-7主観.qmd
+  quarto-pub:
+    - id: 3283e5a8-390a-40ae-8dc6-df1e77f082d2
+      url: 'https://tomo-sakuma.quarto.pub/6-7主観'
+    - id: 9d60a512-2a3b-47a8-8017-1d28fc797d39
+      url: 'https://tomo-sakuma.quarto.pub/6-7subjectivity'

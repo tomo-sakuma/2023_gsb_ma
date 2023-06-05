@@ -17,8 +17,8 @@ format:
     height: 1024
     slide-number: true
     preview-links: auto
-    logo: kobe.png
-    css: styles.css
+    logo: /images/kobe.png
+    css: /parts/styles.css
     footer: "2023管理会計特殊研究"
     smaller: false
     scrollable: true
@@ -29,11 +29,30 @@ format:
     chalkboard: true
     number-sections: true
     number-depth: 2
-    toc: true
+    toc: false
     toc-depth: 1
     navigation-mode: vertical
     pdf-separate-fragments: true
-
+    simplemenu:
+        barhtml:
+            header: "<div class='menubar'></a><ul class='menu'></ul><div class='slide-number'></div><div>"
+        scale: 0.67
+        flat: false
+    title-slide-attributes:
+        data-state: "hide-menubar"
+    #template-partials:
+      #- title-slide.html
+#    pointer:
+#      - alwaysVisible: false
+#filters:
+#  - reveal-auto-agenda
+#auto-agenda:
+#  bullets: numbered
+revealjs-plugins:
+  - pointer
+  - verticator
+  - simplemenu
 editor: visual
 bibliography: references.bib
-csl: the-accounting-review.csl
+csl: https://www.zotero.org/styles/the-accounting-review
+
