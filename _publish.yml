@@ -10,3 +10,15 @@
       url: 'https://tomo-sakuma.quarto.pub/6-7主観'
     - id: 9d60a512-2a3b-47a8-8017-1d28fc797d39
       url: 'https://tomo-sakuma.quarto.pub/6-7subjectivity'
+- source: 9_組織間.qmd
+  quarto-pub:
+    - id: bd055d68-1035-428a-a6d6-08ce472fc82f
+      url: 'https://tomo-sakuma.quarto.pub/9_interfirm'
+- source: 11_組織間2.qmd
+  quarto-pub:
+    - id: c544fa54-50cf-4457-8c71-6a9a6155865c
+      url: 'https://tomo-sakuma.quarto.pub/11_inter2'
+- source: 12_Cost.qmd
+  quarto-pub:
+    - id: 3c57b9c9-ab54-41c2-ab3a-c28710a7111d
+      url: 'https://tomo-sakuma.quarto.pub/12_cost'
